@@ -1,28 +1,47 @@
-# $$\textcolor{red}{\text{UNDER CONSTRUCTION}}$$
-
-## 1. Project Title:
+# Project Title:
 
 3D Landing Page Project
 
-## 2. Project Description:
+## 1. Project Description:
 
-Program a 3D Landing Page 
+A interactive 3D Landing Web Page. 
 
-## 3. Tech Stack: 
+Users can click on any of a number of boxes to display details and a button about a 
+specific computer technology e.g. "JS", "React", "Vue", "Angular", "Node", "Sass", "Ember".
+
+## 2. Tech Stack: 
 
 - HTML
 - CSS
 - JavaScript
 
-## 4. What is the MVP?
+## 3. Installation:
+
+i. Clone the git repo
+
+```
+https://github.com/AAdewunmi/3D-Landing-Page.git
+```
+
+ii. Open project folder
+
+iii. Explore
+
+😎
+
+## 4. How To Use:
+
+i. Run index.html project in an IDE 
+
+## 5. Demo
+
+[
+](https://github.com/AAdewunmi/3D-Menu-Project/assets/15172744/32d0c4a6-ad76-4434-b356-8005ac28c5a3)
 
 
-## 5. What are the sprinkles? 
+## 6. Contributing:
 
-
-## 6. When will the project be complete? 
-
-The project is completed after all MVP's are implemented.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 7. Adapted from: 
 
